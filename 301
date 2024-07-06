@@ -1,0 +1,4 @@
+<?php
+header("Location: https://sirentang.brebeskab.go.id/upload/galeri/video/", true, 301);
+exit();
+?>
