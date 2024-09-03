@@ -1,4 +1,0 @@
-<?php
-header("Location: https://kemenagkotabaubau.com/file/img/", true, 301);
-exit();
-?>
