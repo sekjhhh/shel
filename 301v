@@ -1,4 +1,0 @@
-<?php 
-header("Location: https://rekrutmen.sucofindo.co.id/rst/", true, 301); 
-exit(); 
-?>
