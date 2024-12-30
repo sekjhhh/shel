@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Yahoo! Slurp
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Baiduspider
+Disallow:
+
+User-agent: YandexBot
+Disallow:
+
+User-agent: *
+Disallow:
+
+Sitemap: https://sijakti.pta-jakarta.go.id/fonts/panenhoki/sitemap.xml
