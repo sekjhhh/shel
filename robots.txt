@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.domainanda.com/sitemap.xml
+
+# Fast indexing for Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Allow access to important resources
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Block non-essential admin pages (optional)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+# Prevent duplicate content indexing
+Disallow: /?search=
+Disallow: /tag/
+
+# Set crawl-rate in Google Search Console for better indexing speed
