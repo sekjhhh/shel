@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.domainanda.com/sitemap.xml
+Sitemap: https://hpi-fs.iaingorontalo.ac.id/sitemap.xml
 
 # Fast indexing for Googlebot
 User-agent: Googlebot
