@@ -1,5 +1,3 @@
-ÿØÿàQ %PDF-1.4
-
 <!DOCTYPE html>
 <html>
 <head>
